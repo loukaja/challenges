@@ -1,5 +1,3 @@
-import timeit
-
 from data import DICTIONARY, LETTER_SCORES
 
 def load_words():
